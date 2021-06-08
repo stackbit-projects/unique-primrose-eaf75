@@ -306,6 +306,8 @@ models:
         label: schema
         description: code
         default: j
+        const: date
+        required: true
     singleInstance: true
     file: ''
   blog_feed_section:
