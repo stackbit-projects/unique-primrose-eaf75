@@ -304,6 +304,7 @@ models:
       - name: jimbojr55
         type: string
         label: schema
+        description: code
     singleInstance: true
     file: ''
   blog_feed_section:
