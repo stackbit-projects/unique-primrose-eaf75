@@ -301,7 +301,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: ''
+      - name: jimbojr55
         type: string
     singleInstance: true
     file: ''
