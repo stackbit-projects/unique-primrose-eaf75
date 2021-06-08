@@ -305,6 +305,7 @@ models:
         type: string
         label: schema
         description: code
+        default: j
     singleInstance: true
     file: ''
   blog_feed_section:
