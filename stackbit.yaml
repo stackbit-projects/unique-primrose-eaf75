@@ -303,6 +303,7 @@ models:
         label: Seo
       - name: jimbojr55
         type: string
+        label: schema
     singleInstance: true
     file: ''
   blog_feed_section:
