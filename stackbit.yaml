@@ -308,6 +308,8 @@ models:
         default: j
         const: date
         required: true
+        hidden: true
+        readOnly: true
     singleInstance: true
     file: ''
   blog_feed_section:
